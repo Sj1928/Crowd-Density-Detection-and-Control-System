@@ -35,6 +35,8 @@ To build a low-cost automated crowd alert & control system using:
 - Sibshish Bhoi
 - Department: Electronics & Instrumentation
 - Project: Final Year IoT + CV based Smart Surveillance
-Red LED
 
-Buzzer alarm
+
+
+
+
