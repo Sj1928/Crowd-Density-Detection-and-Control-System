@@ -14,9 +14,9 @@ To build a low-cost automated crowd alert & control system using:
 - ML-based head/person detection
 - Threshold-based alerts
 - Automatic activation of safety mechanisms:
-- Emergency gate opening
-- Red LED warning
-- Buzzer alarm
+-- Emergency gate opening
+-- Red LED warning
+-- Buzzer alarm
 
 # 🧠 System Overview (Workflow)
 - Pi Camera captures live crowd video.
@@ -27,9 +27,9 @@ To build a low-cost automated crowd alert & control system using:
 - Alert is sent to Raspberry Pi
 - Raspberry Pi signals ESP8266
 - ESP8266 triggers:
-- Emergency exit gate (servo motor)
-- Red LED
-- Buzzer alarm
+-- Emergency exit gate (servo motor)
+-- Red LED
+-- Buzzer alarm
 
 # 👨‍💻 Authors
 - Sibshish Bhoi
